@@ -6,7 +6,7 @@ let user = {name, age, email};
 
 let a = {name: "one"};
 let b = {name: "one"};
-let c = {...a};
+let c = {...a };
 
 c.name = "test";
 
